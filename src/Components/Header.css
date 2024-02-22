@@ -1,0 +1,22 @@
+.header {
+  margin: 8px;
+  padding: 25px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: right;
+}
+
+#logo {
+  height: 150px;
+  width: 150px;
+}
+
+#search {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 30px;
+  height: 30px;
+  align-items: center;
+}

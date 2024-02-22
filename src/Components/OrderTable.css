@@ -1,0 +1,30 @@
+.sta {
+  color: red;
+}
+.od {
+  margin-left: 50px;
+  justify-items: right;
+}
+.order-table {
+  border-collapse: separate;
+
+  border-spacing: 1 15px;
+  margin: 8px;
+  padding: 25px;
+
+  width: 1200px;
+}
+.tn {
+  color: blue;
+}
+.order-table tbody tr.num {
+  height: 100px;
+}
+.order-table-container {
+  position: relative;
+}
+
+.rec img {
+  height: 20px;
+  width: 20px;
+}
